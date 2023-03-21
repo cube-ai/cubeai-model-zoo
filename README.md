@@ -1,4 +1,4 @@
-# CubeAI模型示范库
+# [CubeAI模型示范库](https://openi.pcl.ac.cn/cubeai-model-zoo/cubeai-model-zoo)
 
 全球首创支持“服务原生”、“源码一键入云”的AI模型应用示范库。
 
@@ -7,3 +7,5 @@
 云原生 —— 源码一键入云：本模型库中所有模型推理服务程序能够以源代码方式一键自动发布至 [CubeAI智立方](https://openi.pcl.ac.cn/cubeai/cubeai_deploy) 云平台进行共享和部署，也可使用 [CubeAI Model Deployer](https://openi.pcl.ac.cn/cubeai/cubeai-model-deployer) 等独立部署工具一键部署至任意云边端位置。
 
 算力原生 —— 算力即服务：本模型库中所有模型推理服务程序一经部署之后，随即启动运行并向用户提供在线AI算力服务，算力天生能够以最为快速便捷的方式为用户所使用，改变传统AI算力只能够通过批量式任务进行调度使用的非友好模式。
+
+参见：https://openi.pcl.ac.cn/cubeai-model-zoo/cubeai-model-zoo
